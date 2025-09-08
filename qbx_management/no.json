@@ -1,0 +1,48 @@
+{
+    "menu": {
+        "grade": "Rang: ",
+        "expel_gang": "Spark ut gjengmedlem",
+        "fire_employee": "Si opp ansatt",
+        "manage_gang": "Administrer gjengmedlemmer",
+        "manage_employees": "Administrer ansatte",
+        "citizen_id": "Innbygger-ID: ",
+        "id": "ID: ",
+        "hire_gang": "Rekrutter sivile i nærheten",
+        "hire_members": "Rekrutter gjengmedlemmer",
+        "hire_civilians": "Ansett sivile i nærheten",
+        "hire_employees": "Ansett ansatte",
+        "check_gang": "Sjekk din gjengliste",
+        "check_employee": "Sjekk din ansattliste",
+        "gang_menu": "Gjengmeny",
+        "boss_menu": "Sjefsmeny",
+        "gang_management": "[E] - Åpne gjengadministrasjon",
+        "boss_management": "[E] - Åpne sjefsadministrasjon",
+        "hours_in_days": "Timer jobbet siste 30 dager",
+        "last_checkin": "Siste innsjekk",
+        "employee_status": "Ansattstatus",
+        "on_duty": "På jobb",
+        "off_duty": "Av jobb"
+    },
+    "error": {
+        "cant_promote": "Du kan ikke endre rang på en person med lik eller høyere rang enn deg...",
+        "cant_promote_self": "Du kan ikke endre din egen rang...",
+        "not_around": "Denne personen er ikke i byen...",
+        "grade_not_exist": "Denne rangen ser ikke ut til å eksistere...",
+        "couldnt_hire": "Du kunne ikke ansette denne personen...",
+        "kick_yourself": "Du kan ikke sparke deg selv...",
+        "fire_yourself": "Du kan ikke si opp deg selv...",
+        "fire_boss": "Du kan ikke si opp noen med høyere rang...",
+        "you_gang_fired": "Du har blitt sparket ut av %s!",
+        "you_job_fired": "Du har blitt sagt opp fra %s! Lykke til!",
+        "unable_fire": "Du kan ikke si opp denne personen...",
+        "person_doesnt_exist": "Denne personen ser ikke ut til å eksistere...",
+        "gang_fired": "Gjengmedlem sparket ut!",
+        "job_fired": "Ansatt sagt opp!"
+    },
+    "success": {
+        "promoted": "Vellykket forfremmet!",
+        "promoted_to": "Du har blitt forfremmet til ",
+        "hired_to": "Du har blitt ansatt i ",
+        "hired_into": "Du ansatte %s i %s"
+    }
+}

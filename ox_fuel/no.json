@@ -1,0 +1,20 @@
+{
+    "tank_full": "Tanken på dette kjøretøyet er full",
+    "petrolcan_cannot_afford": "Du har ikke råd til en bensinkanne",
+    "refuel_cannot_afford": "Du har ikke råd til å fylle drivstoff på kjøretøyet ditt",
+    "vehicle_far": "Kjøretøyet ditt er for langt unna",
+    "pump_fuel_with_can": "Legg bort kannen før du fyller fra pumpen",
+    "fuel_help": "Trykk ~INPUT_C2939D45~ for å fylle drivstoff",
+    "petrolcan_help": "Trykk ~INPUT_C2939D45~ for å kjøpe eller fylle en bensinkanne",
+    "leave_vehicle": "Forlat kjøretøyet for å begynne å fylle",
+    "start_fueling": "Start fylling",
+    "petrolcan_buy_or_refill": "Kjøp eller fyll en bensinkanne",
+    "fuel_station_blip": "Bensinstasjon",
+    "not_enough_money": "Ikke nok penger! Mangler $%s",
+    "fuel_success": "Fylte opp til %s - $%s",
+    "petrolcan_refill": "Betalte $%s for å fylle opp bensinkannen",
+    "petrolcan_buy": "Betalte $%s for en bensinkanne",
+    "petrolcan_cannot_carry": "Du kan ikke bære denne bensinkannen",
+    "petrolcan_not_enough_fuel": "Bensinkannen din har ikke nok drivstoff",
+    "petrolcan_not_equipped": "Du må utstyre bensinkannen din"
+}

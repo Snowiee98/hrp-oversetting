@@ -1,0 +1,20 @@
+{
+    "error": {
+        "not_enough_money": "Du har ikke nok penger...",
+        "invalid_type": "Det er ikke en gyldig ID-type..."
+    },
+    "success": {
+        "item_recieved": "Du har mottatt ",
+        "new_job": "Gratulerer med ny jobb!"
+    },
+    "info": {
+        "cityhall": "Rådhuset",
+        "open_cityhall": "[E] Åpne rådhuset",
+        "target_open_cityhall": "Åpne rådhuset",
+        "identity": "Identitet",
+        "employment": "Arbeid",
+        "obtain_license_identity": "Skaff lisensene dine",
+        "select_job": "Velg en ny jobb",
+        "price": "Pris: $%s"
+    }
+}

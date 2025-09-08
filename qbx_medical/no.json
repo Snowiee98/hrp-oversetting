@@ -1,0 +1,57 @@
+{
+    "error": {
+        "bled_out": "Du har blødd ut..."
+    },
+    "success": {
+        "wounds_healed": "Dine sår er fikset!"
+    },
+    "info": {
+              "self_death": "Seg selv eller en NPC",
+        "wep_unknown": "Ukjent",
+        "status": "Sjekk status",
+        "healthy": "Du er helt frisk igjen!",
+        "pain_message": "Din %s føles %s",
+        "many_places": "Du har smerter flere steder...",
+        "bleed_alert": "Du er %s",
+        "revive_player_a": "Gjenoppliv en spiller eller deg selv (Kun for admin)",
+        "player_id": "Spiller-ID (kan være tom)",
+        "pain_level": "Sett ditt eller en spillers smertenivå (Kun for admin)",
+        "kill": "Drep en spiller eller deg selv (Kun for admin)",
+        "heal_player_a": "Helbred en spiller eller deg selv (Kun for admin)"
+
+    },
+    "states": {
+             "irritated": "irritert",
+        "quite_painful": "ganske smertefullt",
+        "painful": "smertefullt",
+        "really_painful": "veldig smertefullt",
+        "little_bleed": "blør litt...",
+        "bleed": "blør...",
+        "lot_bleed": "blør mye...",
+        "big_bleed": "blør veldig mye..."
+
+    },
+    "body": {
+              "head": "Hode",
+        "neck": "Nakke",
+        "spine": "Ryggrad",
+        "upper_body": "Overkropp",
+        "lower_body": "Underkropp",
+        "left_arm": "Venstre arm",
+        "left_hand": "Venstre hånd",
+        "left_fingers": "Venstre fingre",
+        "left_leg": "Venstre bein",
+        "left_foot": "Venstre fot",
+        "right_arm": "Høyre arm",
+        "right_hand": "Høyre hånd",
+        "right_fingers": "Høyre fingre",
+        "right_leg": "Høyre bein",
+        "right_foot": "Høyre fot"
+
+    },
+    "logs": {
+              "death_log_title": "%s (%s) er død",
+        "death_log_message": "%s har drept %s med en **%s** (%s)"
+
+    }
+}

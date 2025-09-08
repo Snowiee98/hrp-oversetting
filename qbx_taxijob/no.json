@@ -1,0 +1,33 @@
+{
+"error": {
+    "already_mission": "Du utfører allerede ett NPC-oppdrag",
+    "not_in_taxi": "Du er ikke i en taxi",
+    "missing_meter": "Dette kjøretøyet har ingen taxameter",
+    "no_vehicle": "Du er ikke i et kjøretøy",
+    "not_active_meter": "Taxameteret er ikke aktivt",
+    "no_meter_sight": "Ingen taxameter i sikte"
+},
+
+    "success": {},
+   "info": {
+    "person_was_dropped_off": "Personen ble sluppet av!",
+    "npc_on_gps": "NPC-en er markert på GPS-en din",
+    "go_to_location": "Ta med NPC-en til den angitte lokasjonen",
+    "vehicle_parking": "[E] - Kjøretøyparkering",
+    "job_vehicles": "[E] - Jobbkjøretøy",
+    "drop_off_npc": "[E] - Slipp av NPC",
+    "call_npc": "[E] - Kall på NPC",
+    "blip_name": "Downtown Taxi",
+    "taxi_label_1": "Standard Taxi",
+    "no_spawn_point": "Fant ingen plassering for å bringe taxien",
+    "taxi_returned": "Taxi parkert",
+    "request_taxi": "[E] - Be om taxi",
+    "request_taxi_target": "Be om taxi"
+},
+
+   "menu": {
+    "taxi_menu_header": "Taxi Kjøretøy",
+    "close_menu": "⬅ Lukk Meny"
+}
+
+}

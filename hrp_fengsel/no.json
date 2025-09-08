@@ -1,0 +1,46 @@
+{
+    "notify": {
+        "freedom": "Frihet!",
+        "new_time_by_roster": "Ny fengselstid",
+        "new_time_by_roster_description": "Din fengselstid ble satt til %s måneder!",
+        "unjailed_by_roster": "Fengselstiden din ble satt til null, du blir løslatt!",
+        "no_access": "Du har ikke tilgang til denne kommandoen!",
+        "updated_players_time": "Oppdatert fengselstid for %s til %s måneder",
+        "player_sent": "Sendte %s i fengsel i %s måneder",
+        "time_updated_description": "Fengselstiden din ble satt til %s måneder",
+        "time_updated": "Fengselstid oppdatert",
+        "invalid_player": "Ugyldig spiller!",
+        "lost_job": "Du mistet jobben din!",
+        "confiscated": "Dine eiendeler ble konfiskert!",
+        "returned_items": "Dine eiendeler ble returnert!",
+        "player_released": "%s ble løslatt!",
+        "lifer": "Du er i fengsel på livstid!",
+        "jail_time": "Fengselstid",
+        "time_left": "Du har %s måneder igjen.",
+        "no_time_left": "Du har ingen fengselstid igjen!",
+        "time_remaining": "Gjenstående tid: %s måneder",
+        "completed_hack": "Du fullførte hacket!",
+        "failed_hack": "Du feilet hacket!",
+        "escaped": "Du rømte fra fengselet!",
+        "checkout": "Tiden din er ute! Gå til utsjekk!"
+    },
+
+    "commands": {
+        "jail": "Fengsle spiller",
+        "unjail": "Løslat spiller",
+        "playerid": "Spiller-ID",
+        "check_time": "Sjekk fengselstid",
+        "prisoners_roster": "Vis og administrer nåværende innsatte"
+    },
+
+    "input": {
+        "jail_player": "Fengsle spiller",
+        "playerid": "Spillers server-ID",
+        "jailtime": "Fengselstid",
+        "months": "Måneder (Minutter)",
+        "hack_gate": "Hack fengselsporten",
+        "hacking": "Hacker terminalen...",
+        "check_time": "Sjekk tid",
+        "prison_sentence": "**Fengselsstraff:** %s  \n%s"
+    }
+}

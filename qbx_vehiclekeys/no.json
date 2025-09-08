@@ -1,0 +1,54 @@
+{
+  "addcom": {
+    "addkeys": "leggtilnøkler",
+    "addkeys_help": "Legger til nøkler til et kjøretøy for noen.",
+    "addkeys_id": "id",
+    "addkeys_id_help": "Spiller-ID",
+    "addkeys_plate": "skilt",
+    "addkeys_plate_help": "Skilt",
+    "givekeys": "ginnøkler",
+    "givekeys_help": "Gir nøkler til noen. Hvis ingen ID er oppgitt, gis de til nærmeste person eller alle i kjøretøyet.",
+    "givekeys_id": "id",
+    "givekeys_id_help": "Spiller-ID",
+    "givekeys_plate": "skilt",
+    "givekeys_plate_help": "Skilt",
+    "removekeys": "fjerntnøkler",
+    "removekeys_help": "Fjerner nøkler til et kjøretøy for noen.",
+    "removekeys_id": "id",
+    "removekeys_id_help": "Spiller-ID",
+    "removekeys_plate": "skilt",
+    "removekeys_plate_help": "Skilt"
+  },
+  "info": {
+    "engine": "Slå av/på motor",
+    "search_keys_dispatch": "[H] - Søk etter nøkler",
+    "search_keys": "Søk etter kjøretøynøkler",
+    "toggle_locks": "Lås/lås opp kjøretøy",
+    "vehicle_theft": "Kjøretøytyveri pågår. Type: "
+  },
+  "notify": {
+    "carjack_failed": "Biltyveri mislyktes!",
+    "failed_lockedpick": "Du klarte ikke å dirke opp låsen.",
+    "failed_keys": "Du klarte ikke å finne nøklene og blir frustrert.",
+    "fpid": "Fyll inn spiller-ID og skilt-argumenter",
+    "gave_keys": "Du ga fra deg nøklene.",
+    "added_keys": "Du ga en kopi av nøklene til kjøretøy %s til spiller %s!",
+    "keys_taken": "Du fikk nøkler til kjøretøyet!",
+    "keys_removed": "Du mistet nøklene til kjøretøyet!",
+    "no_keys": "Du har ikke nøkler til dette kjøretøyet.",
+    "not_near": "Ingen i nærheten å gi nøkler til",
+    "vehicle_not_near": "Ikke nær nok kjøretøyet",
+    "vehicle_locked": "Kjøretøy låst!",
+    "vehicle_lockedpick": "Du klarte å dirke opp dørlåsen!",
+    "vehicle_unlocked": "Kjøretøy låst opp!",
+    "removed_keys": "Nøklene til skilt %s for spiller %s har blitt fjernet!",
+    "removed_keys_player": "Nøklene dine til skilt %s har blitt fjernet!",
+    "player_offline": "Denne spilleren er ikke pålogget!",
+    "vehicle_is_unlocked": "Kjøretøyet er allerede ulåst!"
+  },
+  "progress": {
+    "attempting_carjack": "Forsøker biltyveri...",
+    "searching_keys": "Leter etter bilnøklene...",
+    "takekeys": "Tar nøkler fra kroppen..."
+  }
+}

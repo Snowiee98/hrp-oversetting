@@ -1,0 +1,42 @@
+{
+   "error": {
+      "canceled": "Avbrutt..",
+      "cruise_control_disabled": "Cruisekontroll deaktivert",
+      "cruise_control_unavailable": "Cruisekontroll utilgjengelig",
+      "deleted_recording": "Opptak slettet!",
+      "later_aligator": "Vi sees, alligator!",
+      "stress_gain": "Føler deg mer stresset!",
+      "no_vehicle_nearby": "Ingen kjøretøy i nærheten å velte.",
+      "is_handcuffed": "Du er i håndjern.",
+      "is_fastened": "Du har på deg setebelte."
+   },
+   "success": {
+      "cruise_control_enabled": "Cruisekontroll aktivert",
+      "started_recording": "Startet opptak!",
+      "stopped_recording": "Stoppet opptak!",
+      "saved_recording": "Lagret opptak!",
+      "stress_relief": "Føler deg mer avslappet!",
+      "flipped_car": "Kjøretøyet ble veltet!"
+   },
+   "progress": {
+      "eating": "Spiser..",
+      "drinking": "Drikker..",
+      "drinking_liquor": "Drikker sprit..",
+      "quick_sniff": "Rask sniff..",
+      "smoking_crack": "Røyker crack..",
+      "popping_pills": "Tar piller..",
+      "healing": "Helbreder..",
+      "smoking_meth": "Røyker meth..",
+      "lighting_joint": "Tenn­er joint..",
+      "flipping_car": "Velter kjøretøy..."
+   },
+   "info": {
+      "minutes": "minutter",
+      "seconds": "sekunder..",
+      "shuffleSeat": "Bytt sete"
+   },
+   "actions": {
+      "push_vehicle": "Trykk [~g~SHIFT~w~] og [~g~E~w~] for å skyve kjøretøyet til [~g~SHIFT~w~] slippes",
+      "toggle_cruise_control": "Veksle cruisekontroll"
+   }
+}
