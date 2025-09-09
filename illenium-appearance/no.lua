@@ -152,9 +152,9 @@ Locales["no"] = {
         }
     },
     outfitManagement = {
-        title = "Outfit-administrasjon",
-        jobText = "Administrer jobbutfits",
-        gangText = "Administrer gjengoutfits"
+        title = "antrekk-administrasjon",
+        jobText = "Administrer arbeidsklær",
+        gangText = "Administrer gjengklær"
     },
     cancelled = {
         title = "Tilpasning avbrutt",
@@ -163,46 +163,46 @@ Locales["no"] = {
     outfits = {
         import = {
             title = "Skriv inn outfit-kode",
-            menuTitle = "Importer outfit",
-            description = "Importer et outfit med en delingskode",
+            menuTitle = "Importer antrekk",
+            description = "Importer et antrekk med en delingskode",
             name = {
-                label = "Navngi outfiten",
-                placeholder = "Et fint outfit",
-                default = "Importert outfit"
+                label = "Navngi antrekket",
+                placeholder = "Et fint antrekk",
+                default = "Importert antrekk"
             },
             code = {
-                label = "Outfit-kode"
+                label = "Antrekk-kode"
             },
             success = {
-                title = "Outfit importert",
-                description = "Du kan nå bytte til outfiten via outfit-menyen"
+                title = "Antrekk importert",
+                description = "Du kan nå bytte til antrekk via outfit-menyen"
             },
             failure = {
                 title = "Feil ved import",
-                description = "Ugyldig outfit-kode"
+                description = "Ugyldig anntrekk-kode"
             }
         },
         generate = {
-            title = "Generer outfit-kode",
-            description = "Lag en kode for å dele outfiten",
+            title = "Generer antrekk-kode",
+            description = "Lag en kode for å dele antrekket",
             failure = {
                 title = "Noe gikk galt",
-                description = "Klarte ikke å lage kode for outfiten"
+                description = "Klarte ikke å lage kode for antrekket"
             },
             success = {
-                title = "Outfit-kode generert",
+                title = "Antrekk-kode generert",
                 description = "Her er koden din"
             }
         },
         save = {
-            menuTitle = "Lagre nåværende outfit",
-            menuDescription = "Lagre ditt nåværende outfit som %s outfit",
-            description = "Lagre ditt nåværende outfit",
-            title = "Navngi outfiten",
-            managementTitle = "Outfit-detaljer",
+            menuTitle = "Lagre nåværende antrekk",
+            menuDescription = "Lagre ditt nåværende antrekk som %s antrekk",
+            description = "Lagre ditt nåværende antrekk",
+            title = "Navngi antrekk",
+            managementTitle = "Antrekk-detaljer",
             name = {
-                label = "Outfit-navn",
-                placeholder = "Veldig kult outfit"
+                label = "Antrekk-navn",
+                placeholder = "Veldig kult antrekk"
             },
             gender = {
                 label = "Kjønn",
@@ -214,49 +214,49 @@ Locales["no"] = {
             },
             failure = {
                 title = "Lagring feilet",
-                description = "En outfit med dette navnet finnes allerede"
+                description = "Et antrekk med dette navnet finnes allerede"
             },
             success = {
                 title = "Suksess",
-                description = "Outfiten %s er lagret"
+                description = "Antrekket %s er lagret"
             }
         },
         update = {
-            title = "Oppdater outfit",
-            description = "Lagre dine nåværende klær på en eksisterende outfit",
+            title = "Oppdater antrekk",
+            description = "Lagre dine nåværende klær på et eksisterende antrekk",
             failure = {
                 title = "Oppdatering feilet",
-                description = "Outfiten finnes ikke"
+                description = "Antrekket finnes ikke"
             },
             success = {
                 title = "Suksess",
-                description = "Outfiten %s er oppdatert"
+                description = "Antrekket %s er oppdatert"
             }
         },
         change = {
-            title = "Bytt outfit",
-            description = "Velg fra dine lagrede %s outfits",
-            pDescription = "Velg fra dine lagrede outfits",
+            title = "Bytt antrekk",
+            description = "Velg fra dine lagrede %s antrekk",
+            pDescription = "Velg fra dine lagrede antrekk",
             failure = {
                 title = "Noe gikk galt",
-                description = "Outfiten du prøver å bruke mangler baseutseende"
+                description = "Antrekket du prøver å bruke mangler baseutseende"
             }
         },
         delete = {
-            title = "Slett outfit",
-            description = "Slett en lagret %s outfit",
-            mDescription = "Slett en av dine lagrede outfits",
+            title = "Slett antrekk",
+            description = "Slett et lagret %s antrekk",
+            mDescription = "Slett et av dine lagrede antrekk",
             item = {
                 title = 'Slett "%s"',
                 description = "Modell: %s%s"
             },
             success = {
                 title = "Suksess",
-                description = "Outfit slettet"
+                description = "Antrekk slettet"
             }
         },
         manage = {
-            title = "👔 | Administrer %s outfits"
+            title = "👔 | Administrer %s antrekk"
         }
     },
     jobOutfits = {
@@ -266,10 +266,10 @@ Locales["no"] = {
     menu = {
         returnTitle = "Tilbake",
         title = "Klesrom",
-        outfitsTitle = "Spilleroutfits",
+        outfitsTitle = "Spillerantrekk",
         clothingShopTitle = "Klesbutikk",
         barberShopTitle = "Frisør",
-        tattooShopTitle = "Tattooshop",
+        tattooShopTitle = "Tattoobutikk",
         surgeonShopTitle = "Kirurg"
     },
     clothing = {
@@ -280,9 +280,9 @@ Locales["no"] = {
             description = "Velg mellom et stort utvalg av klær"
         },
         outfits = {
-            title = "👔 | Outfit-valg",
+            title = "👔 | Antrekk-valg",
             civilian = {
-                title = "Sivilt outfit",
+                title = "Sivilt antrekk",
                 description = "Ta på deg dine egne klær"
             }
         }
@@ -316,16 +316,16 @@ Locales["no"] = {
             title = "Åpner meny for gjengklær"
         },
         bossmanagedoutfits = {
-            title = "Åpner meny for sjefstyrte outfits"
+            title = "Åpner meny for sjefstyrte antrekk"
         }
     },
     textUI = {
         clothing = "Klesbutikk - Pris: $%d",
         barber = "Frisør - Pris: $%d",
-        tattoo = "Tattooshop - Pris: $%d",
+        tattoo = "Tattoobutikk - Pris: $%d",
         surgeon = "Plastisk kirurg - Pris: $%d",
         clothingRoom = "Klesrom",
-        playerOutfitRoom = "Outfits"
+        playerOutfitRoom = "Antrekk"
     },
     migrate = {
         success = {
