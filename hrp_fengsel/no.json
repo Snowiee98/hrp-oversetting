@@ -19,8 +19,8 @@
         "time_left": "Du har %s måneder igjen.",
         "no_time_left": "Du har ingen fengselstid igjen!",
         "time_remaining": "Gjenstående tid: %s måneder",
-        "completed_hack": "Du fullførte hacket!",
-        "failed_hack": "Du feilet hacket!",
+        "completed_hack": "Du fullførte hacken!",
+        "failed_hack": "Du feilet hacken!",
         "escaped": "Du rømte fra fengselet!",
         "checkout": "Tiden din er ute! Gå til utsjekk!"
     },
