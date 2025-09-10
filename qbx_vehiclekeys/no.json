@@ -21,8 +21,8 @@
   },
   "info": {
     "engine": "Slå av/på motor",
-    "search_keys_dispatch": "[H] - Søk etter nøkler",
-    "search_keys": "Søk etter kjøretøynøkler",
+    "search_keys_dispatch": "[H] - Let etter nøkler",
+    "search_keys": "Let etter kjøretøynøkler",
     "toggle_locks": "Lås/lås opp kjøretøy",
     "vehicle_theft": "Kjøretøytyveri pågår. Type: "
   },
