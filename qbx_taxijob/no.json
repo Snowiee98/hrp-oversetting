@@ -2,10 +2,10 @@
 "error": {
     "already_mission": "Du utfører allerede ett NPC-oppdrag",
     "not_in_taxi": "Du er ikke i en taxi",
-    "missing_meter": "Dette kjøretøyet har ingen taxameter",
+    "missing_meter": "Dette kjøretøyet har ingen taksameter",
     "no_vehicle": "Du er ikke i et kjøretøy",
-    "not_active_meter": "Taxameteret er ikke aktivt",
-    "no_meter_sight": "Ingen taxameter i sikte"
+    "not_active_meter": "Taksameteret er ikke aktivt",
+    "no_meter_sight": "Ingen taksameter i sikte"
 },
 
     "success": {},
