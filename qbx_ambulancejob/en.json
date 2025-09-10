@@ -47,7 +47,7 @@
     "mail": {
         "sender": "Oslo universitetssykehus",
         "subject": "Sykehus Kostnad",
-        "message": "Kjære %s %s, <br /><br />Du mottar denne emailen fordi du fikk behandling på sykehuset l besøk.<br />Kostnaden er: <strong>$%s</strong><br /><br />God bedring!"
+        "message": "Kjære %s %s, <br /><br />Du mottar denne emailen fordi du fikk behandling på sykehuset l besøk.<br />Det er trukket: <strong>$%s</strong> fra kontoen din<br /><br />God bedring!"
     },
     "menu": {
         "amb_vehicles": "Ambulanse Kjøretøy",
