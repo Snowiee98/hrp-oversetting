@@ -27,8 +27,8 @@
         "server_opened": "Serveren er åpnet",
         "server_closed": "Serveren er stengt",
         "teleported_waypoint": "Teleporter til veipunkt.",
-        "character_deleted": "Character deleted!",
-        "character_deleted_citizenid": "You successfully deleted the character with Citizen ID %s."
+        "character_deleted": "Karakter slettet!",
+        "character_deleted_citizenid": "Du slettet karakteren med Citizen ID %s."
     },
     "info": {
         "received_paycheck": "Du mottok lønnsslippen din på kr %s",
@@ -42,26 +42,26 @@
         "exploit_banned": "Du har blitt utestengt for juks. Sjekk vår Discord for mer informasjon: %s",
         "exploit_dropped": "Du har blitt sparket for utnyttelse",
         "multichar_title": "Qbox Multichar",
-        "multichar_new_character": "New Character #%s",
-        "char_male": "Male",
-        "char_female": "Female",
-        "play": "Play",
-        "play_description": "Play as %s",
-        "delete_character": "Delete Character",
-        "delete_character_description": "Delete %s",
-        "logout_command_help": "Logs you out of your current character",
-        "check_id": "Check your Server ID",
-        "deletechar_command_help": "Delete a players character",
-        "deletechar_command_arg_player_id": "Player ID",
-        "character_registration_title": "Character Registration",
-        "first_name": "First Name",
-        "last_name": "Last Name",
-        "nationality": "Nationality",
-        "gender": "Sex",
-        "birth_date": "Birth Date",
-        "select_gender": "Select your gender...",
-        "confirm_delete": "Are you sure you wish to delete this character?",
-        "in_queue": "🐌 You are %s/%s in queue. (%s) %s"
+        "multichar_new_character": "Ny Karakter #%s",
+        "char_male": "Mann",
+        "char_female": "Kvinne",
+        "play": "Spill",
+        "play_description": "Spill som %s",
+        "delete_character": "Slett karakter",
+        "delete_character_description": "Slett %s",
+        "logout_command_help": "Logger deg ut av din gjeldende karakter",
+        "check_id": "Sjekk din Server ID",
+        "deletechar_command_help": "Slett en spiller sin karakter",
+        "deletechar_command_arg_player_id": "Spiller ID",
+        "character_registration_title": "Karakter Registrering",
+        "first_name": "Fornavn",
+        "last_name": "Etternavn",
+        "nationality": "Nasjonalitet",
+        "gender": "Kjønn",
+        "birth_date": "Fødselsår",
+        "select_gender": "Velg ditt kjønn...",
+        "confirm_delete": "Er du sikker på at du vil slette denne karakteren?",
+        "in_queue": "🐌 Du er %s/%s i kø. (%s) %s"
     },
     "command": {
         "tp": {
@@ -128,18 +128,18 @@
             }
         },
         "changejob": {
-            "help": "Change Active Job of Player (Admin Only)",
+            "help": "Endre Aktiv Jobb for Spiller (kun admin)",
             "params": {
                 "id": { "name": "id", "help": "Player ID" },
                 "job": { "name": "job", "help": "Job name" }
             }
         },
         "addjob": {
-            "help": "Add Job to Player (Admin Only)",
+            "help": "Sett en spillerjobb (kun admin)",
             "params": {
                 "id": { "name": "id", "help": "Player ID" },
-                "job": { "name": "job", "help": "Job name" },
-                "grade": { "name": "grade", "help": "Job grade" }
+                "job": { "name": "job", "help": "Jobb navn" },
+                "grade": { "name": "grade", "help": "Jobb grad" }
             }
         },
         "removejob": {
