@@ -20,8 +20,8 @@
         "hours_in_days": "Timer jobbet siste 30 dager",
         "last_checkin": "Siste innsjekk",
         "employee_status": "Ansattstatus",
-        "on_duty": "På jobb",
-        "off_duty": "Av jobb"
+        "on_duty": "På vakt",
+        "off_duty": "Av vakt"
     },
     "error": {
         "cant_promote": "Du kan ikke endre rang på en person med lik eller høyere rang enn deg...",
