@@ -58,7 +58,7 @@
         "last_name": "Etternavn",
         "nationality": "Nasjonalitet",
         "gender": "Kjønn",
-        "birth_date": "Fødselsår",
+        "birth_date": "Fødselssår",
         "select_gender": "Velg ditt kjønn...",
         "confirm_delete": "Er du sikker på at du vil slette denne karakteren?",
         "in_queue": "🐌 Du er %s/%s i kø. (%s) %s"
